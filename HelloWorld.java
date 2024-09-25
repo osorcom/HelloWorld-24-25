@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class HelloWorld {
   public static void main(String[] args){
     System.out.println("Hello World 24-25\n----------------------------------");
@@ -22,4 +23,26 @@ public class HelloWorld {
     System.out.println("Hola bebe");
 >>>>>>> 7ddc8c261421850ad0d31cc45ae61db943ace204
   }
+=======
+
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World 24-25\n----------------------------------");
+        System.out.println("Àlex Hernández Gallego");
+
+        System.out.println("Sebastian");
+
+        System.out.println("osc");
+
+        System.out.println("sebastrg");
+
+        System.out.println("ori");
+
+        System.out.println("osc");
+
+        System.out.println("Hola bebe");
+    }
+
+>>>>>>> 7435a4b1f97f4a82d1f138313c827f86c37ffa91
 }
