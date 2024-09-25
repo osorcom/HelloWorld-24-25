@@ -1,3 +1,4 @@
+
 public class HelloWorld {
 
     public static void main(String[] args) {
@@ -9,6 +10,11 @@ public class HelloWorld {
         System.out.println("osc");
 
         System.out.println("sebastrg");
+
+        System.out.println("ori");
+
+        System.out.println("osc");
+
     }
 
 }
