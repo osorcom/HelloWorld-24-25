@@ -5,9 +5,10 @@ public class HelloWorld {
 <<<<<<< HEAD
 =======
     System.out.println("osc");
-    System.out.println("Enric");
+    
 
 >>>>>>> 02be6f72cdc2673b19e1722fc041efa40fd4b2df
     System.out.println("sebastrg");
+    System.out.println("Enric");
   }
 }
