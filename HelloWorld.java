@@ -3,5 +3,11 @@ public class HelloWorld {
     System.out.println("Hello World 24-25\n----------------------------------");
     System.out.println("Luis :,D :) :( :o (º_º) (º\º):D");
     System.out.println("osc");
+<<<<<<< HEAD
+=======
+    System.out.println("osc");
+
+>>>>>>> 02be6f72cdc2673b19e1722fc041efa40fd4b2df
+    System.out.println("sebastrg");
   }
 }
