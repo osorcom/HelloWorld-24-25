@@ -3,7 +3,6 @@ public class HelloWorld {
     System.out.println("Hello World 24-25\n----------------------------------");
     System.out.println("osc");
 <<<<<<< HEAD
-    System.out.println("Sebastian");
 =======
     System.out.println("osc");
 
