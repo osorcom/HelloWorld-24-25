@@ -1,18 +1,20 @@
+<<<<<<< HEAD
+public class HelloWorld {
+  public static void main(String[] args){
+    System.out.println("Hello World 24-25\n----------------------------------");
+    System.out.println("osc");
 
 public class HelloWorld {
   public static void main(String[] args){
     System.out.println("Hello World 24-25\n----------------------------------");
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 	System.out.println("Ruben");
   }
-=======
-=======
-
->>>>>>> 6f09ff5f802e1f4803f9a405c0268d59bbcc1def
+ 
     System.out.println("Iker Vargas");
+    System.out.println("Enric Costa");
 
-        System.out.println("Àlex Hernández Gallego");
+    System.out.println("ori");
 
         System.out.println("Sebastian");
 
@@ -30,5 +32,8 @@ public class HelloWorld {
 
     }
 
->>>>>>> a34c7e12b123299f6e54bc56777a2d4c1c623d35
+
+    System.out.println("sebastrg");
+  }
 }
+  
