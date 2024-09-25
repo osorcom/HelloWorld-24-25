@@ -12,5 +12,6 @@ public class HelloWorld {
 >>>>>>> 02be6f72cdc2673b19e1722fc041efa40fd4b2df
     System.out.println("sebastrg");
 >>>>>>> refs/remotes/origin/master
+    System.out.println("Hola bebe");
   }
 }
