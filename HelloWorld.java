@@ -9,13 +9,14 @@ public class HelloWorld {
 
         System.out.println("osc");
 
-        System.out.println("sebastrg");
-
         System.out.println("ori");
 
         System.out.println("osc");
 
         System.out.println("Hola bebe");
+
+	Persona p1 = new Persona("AlexLopez", 18, "Masculino");
+	p1.getSexo();
     }
 
 }
