@@ -16,6 +16,10 @@ public class HelloWorld {
     System.out.println("Enric");
 =======
 >>>>>>> refs/remotes/origin/master
+<<<<<<< HEAD
 >>>>>>> 69293550bc82d86a6eac27e6466a7dfe78d5ca0b
+=======
+    System.out.println("Hola bebe");
+>>>>>>> 7ddc8c261421850ad0d31cc45ae61db943ace204
   }
 }
